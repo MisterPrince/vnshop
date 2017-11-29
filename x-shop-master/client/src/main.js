@@ -35,7 +35,7 @@ Vue.use(VueLazyload, {
   loading: 'static/loading-svg/loading-bars.svg',
   try: 3
 })
-Axios.defaults.baseURL = apiConfig.baseUrl
+axios.defaults.baseURL = apiConfig.baseUrl
 // 注册全局的过滤器currency
 Vue.filter('currency', currency)
 // 关闭产品提示，现在在开发环境中

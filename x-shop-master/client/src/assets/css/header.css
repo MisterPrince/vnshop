@@ -22,6 +22,9 @@
 }
 .navbar-brand-logo {
   /*width: 120px;*/
+  width: 200px;
+  height: 40px;
+  display: block;
 }
 .header a, .footer a {
   color: #666;

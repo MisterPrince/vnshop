@@ -612,11 +612,12 @@ a:hover {
   font-weight: bold;
   -webkit-transition: all .3s ease-out;
   transition: all .3s ease-out;
-  border: 1px solid #d1434a;
-  color: #d1434a;
+  border: 1px solid red;
+  color: red;
   text-transform: uppercase;
   letter-spacing: .25em;
   white-space: nowrap;
+  border-radius: 8px;
 }
 
 .btn:hover, .btn[href]:hover {

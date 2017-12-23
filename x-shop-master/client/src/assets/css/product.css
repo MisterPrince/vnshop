@@ -413,10 +413,12 @@
   background: #fff;
   text-align: right;
   overflow: hidden;
+  background-color: red;
 }
 
 .filter-nav a {
   margin: 0 10px;
+  color: white;
 }
 
 .filter-nav a.cur, .filter-nav a:hover {

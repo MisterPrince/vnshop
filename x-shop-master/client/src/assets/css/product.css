@@ -248,7 +248,7 @@
 }
 
 .filter dd a:hover, .filter dd .cur {
-  color: #ee7a23;
+  color: #000000;
 }
 
 .filter .filter-category ul {
@@ -470,6 +470,7 @@
 
   .filter-nav .sortby {
     display: none;
+    color: white;
   }
 
   .accessory-result .filter {

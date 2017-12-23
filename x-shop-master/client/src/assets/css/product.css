@@ -19,7 +19,7 @@
 }
 
 .accessory-list > ul > li:hover {
-  border-color: #ee7a23;
+  border-color: red;
   -webkit-transform: translateY(-5px);
   -ms-transform: translateY(-5px);
   transform: translateY(-5px);
